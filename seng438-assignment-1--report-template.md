@@ -32,7 +32,10 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-
+Before we began this lab, we knew that exploratory testing was testing the application without any structured plan,
+but required a deep knowledge of the requirements for the application; Manual functional testing, on the other hand,
+was similar to exploratory testing but follows an actual structured plan with test suites and does not require a deep knowledge
+of the requirements.
 
 # High-level description of the exploratory testing plan
 
