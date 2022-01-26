@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       |34 |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Ryan Huynh   |
+|                 | Jonas Wong  |
+|                 | Mathew Pelletier  |
+|                 | Mason Harris  |
 
 **Table of Contents**
 
@@ -32,8 +32,7 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-An introduction of your lab work, and what you knew about exploratory and manual
-functional testing before this lab
+
 
 # High-level description of the exploratory testing plan
 
