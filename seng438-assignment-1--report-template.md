@@ -39,8 +39,7 @@ of the requirements.
 
 # High-level description of the exploratory testing plan
 
-Jonas Wong
-My plan was to test all the major functions first. I decided to test the major functions first instead of finding edge-cases first since knowing all major bugs and issues would make sure that when testing for edge-cases, I would not accidentally re-record the same bug, thinking that it can only be reproduced with a very specific set of steps. Testing all the major functions included the PIN, withdrawal, deposit, transfer, and balance inquiry. I then went on to testing whether the high-level requirements were followed as those are the most important functionalities to have. Lastly, I tested out certain edge-cases that I thought of while doing the other testing.  
+Our group's plan for exploratory testing was to split into pairs, but each individual did their own exploratory testing, which all consisted of using the ATM as intended based on the requirements provided and making a bug report if anything unusual or unexpected occured.
 
 # Comparison of exploratory and manual functional testing
 
