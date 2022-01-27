@@ -25,7 +25,7 @@ divided](#How-the-pair-testing-was-managed-and-team-work-was-divided)
 [6 Difficulties encountered, challenges overcome, and lessons
 learned](#difficulties)
 
-[7 Comments/feedback on the lab and lab document itself](#Comments/feedback-on-the-lab-and-lab-document-itself)
+[7 Comments/feedback on the lab and lab document itself](#comments)
 
 # Introduction
 
@@ -56,6 +56,6 @@ Each individual did there own exploratory testing and added bugs they found to t
 
 There were no major difficulties or challenges during this lab. The only minor challenge was that of organizing our group to meet. We did learn about using the Backlog website as a tool to report bugs and putting exploratory, manual scripting, and regression testing into practice.
 
-# Comments/feedback on the lab and lab document itself
+<h1 id="comments">Comments/feedback on the lab and lab document itself</h1>
 
 The lab document was thorough and explained the actual lab very well. Images were very useful as it directly shows what page to be looking at during certain steps. Good explanation of how to use backlog and going through each step as just saying to use backlog without the explanation would have been frustrating and tedious.  Was having a little trouble finding where Appendix A, B and C were so having a section for those would be great. The actual lab was useful as doing the testing allowed us to really learn the process of each type of testing. 
