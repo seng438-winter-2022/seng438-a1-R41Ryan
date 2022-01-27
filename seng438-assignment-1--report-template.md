@@ -20,7 +20,7 @@
 [4 Notes and discussion of the peer reviews of defect reports](#Notes-and-discussion-of-the-peer-reviews-of-defect-reports)
 
 [5 How the pair testing was managed and team work/effort was
-divided](#How-the-pair-testing-was-managed-and-team-work/effort-was-divided)
+divided](#How-the-pair-testing-was-managed-and-team-work-was-divided)
 
 [6 Difficulties encountered, challenges overcome, and lessons
 learned](#Difficulties-encountered,-challenges-overcome,-and-lessons-learned)
@@ -48,11 +48,11 @@ We split into pairs for the exploratory testing. Ryan paired up with Mathew, Jon
 combined our results while working on the munal scripted testing and regressions testing. We all looked over each other's defect reports to ensure they were adequete and
 consistent. 
 
-# How the pair testing was managed and team work/effort was divided 
+# How the pair testing was managed and team work was divided 
 
 Each individual did there own exploratory testing and added bugs they found to the backlog. Manual scripted testing and regression testing were done as a group. Each group member were given 10 scripted test cases to test and those same 10 test cases were also tested through regression testing by each member. 
 
-# Difficulties encountered, challenges overcome, and lessons learned
+<h1 id="difficulties"> Difficulties encountered, challenges overcome, and lessons learned </h1>
 
 There were no major difficulties or challenges during this lab. The only minor challenge was that of organizing our group to meet. We did learn about using the Backlog website as a tool to report bugs and putting exploratory, manual scripting, and regression testing into practice.
 
