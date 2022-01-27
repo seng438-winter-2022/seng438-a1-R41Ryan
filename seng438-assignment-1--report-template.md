@@ -23,7 +23,7 @@
 divided](#How-the-pair-testing-was-managed-and-team-work-was-divided)
 
 [6 Difficulties encountered, challenges overcome, and lessons
-learned](#Difficulties-encountered,-challenges-overcome,-and-lessons-learned)
+learned](#difficulties)
 
 [7 Comments/feedback on the lab and lab document itself](#Comments/feedback-on-the-lab-and-lab-document-itself)
 
