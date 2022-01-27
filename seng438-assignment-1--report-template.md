@@ -39,7 +39,8 @@ of the requirements.
 
 # High-level description of the exploratory testing plan
 
-Text…
+Jonas Wong
+My plan was to test all the major functions first. I decided to test the major functions first instead of finding edge-cases first since knowing all major bugs and issues would make sure that when testing for edge-cases, I would not accidentally re-record the same bug, thinking that it can only be reproduced with a very specific set of steps. Testing all the major functions included the PIN, withdrawal, deposit, transfer, and balance inquiry. I then went on to testing whether the high-level requirements were followed as those are the most important functionalities to have. Lastly, I tested out certain edge-cases that I thought of while doing the other testing.  
 
 # Comparison of exploratory and manual functional testing
 
@@ -54,7 +55,7 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Each individual did there own exploratory testing and added bugs they found to the backlog. Manual scripted testing and regression testing were done as a group. Each group member were given 10 scripted test cases to test and those same 10 test cases were also tested through regression testing by each member. 
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
@@ -62,4 +63,4 @@ Text…
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+The lab document was thorough and explained the actual lab very well. Images were very useful as it directly shows what page to be looking at during certain steps. Good explanation of how to use backlog and going through each step as just saying to use backlog without the explanation would have been frustrating and tedious.  Was having a little trouble finding where Appendix A, B and C were so having a section for those would be great. The actual lab was useful as doing the testing allowed us to really learn the process of each type of testing. 
